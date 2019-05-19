@@ -1,2 +1,6 @@
-this id git
-qwer
+ths id git
+<<<<<<< HEAD
+qweraabb
+=======
+aabbdd
+>>>>>>> ft
